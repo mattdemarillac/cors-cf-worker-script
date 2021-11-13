@@ -1,4 +1,3 @@
-// Reference: https://developers.cloudflare.com/workers/examples/cors-header-proxy
 const corsHeaders = {
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Methods": "GET,HEAD,POST,OPTIONS",
